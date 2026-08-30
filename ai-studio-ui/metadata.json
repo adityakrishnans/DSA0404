@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Research Lab",
+  "description": "A data-driven space for exploring cricket performance, teams and matches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
