@@ -14,5 +14,4 @@ This repository contains the academic work completed for **DSA0404 – Fundament
 
 **Course Code:** DSA0404  
 **Course Name:** Fundamentals of Data Science  
-**Institution:** SIMATS Engineering  
-**Slot:** A
+**Institution:** SIMATS Engineering 
